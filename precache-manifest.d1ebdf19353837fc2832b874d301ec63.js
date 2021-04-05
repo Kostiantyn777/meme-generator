@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9eef097ad96df460cd11967db7b77ae2",
+    "revision": "a01097a63e8fd306b1e7e95c08fb6159",
     "url": "/meme-generator/index.html"
   },
   {
-    "revision": "710434a1297692558051",
+    "revision": "b90842c72cc0ccb4c480",
     "url": "/meme-generator/static/css/main.fb5cc63e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meme-generator/static/js/2.4bca04ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "710434a1297692558051",
-    "url": "/meme-generator/static/js/main.8d4f78ff.chunk.js"
+    "revision": "b90842c72cc0ccb4c480",
+    "url": "/meme-generator/static/js/main.8742b457.chunk.js"
   },
   {
     "revision": "163fc7ea317d65653242",
